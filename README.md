@@ -1,6 +1,8 @@
-# jaruern_mini_pos
+# jaruern mini pos (beta)
 
 minimal P.O.S for cross platform
+
+โปรแกรมที่พัฒนาด้วย flutter ใช้งานทางด้าน point of sale และ stock ของร้านค้า
 
 ## Getting Started
 
